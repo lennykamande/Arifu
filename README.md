@@ -1,1 +1,2 @@
-# Arifu
+# Arifu Hackathon Challenge
+
